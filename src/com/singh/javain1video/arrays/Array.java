@@ -2,7 +2,7 @@ package com.singh.javain1video.arrays;
 
 public class Array {
     public static void main(String[] args) {
-        // Arrays are used yo store, same type of fixed size data
+        // Arrays are used to store, same type of fixed size data
 
         int[] a = new int[5];
         // 0,0,0,0,0
